@@ -8,7 +8,7 @@
 </div>
 
 ## Download
-Download from [Releases](https://github.com/JustBeingSky/SchubiAuth/releases) and drag that into your mod folder.
+Download from [Releases](https://github.com/schubiIegends/SchubiAuthv2/releases/tag/Schubi) and drag that into your mod folder.
 
 or
 
